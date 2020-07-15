@@ -8,4 +8,4 @@
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl_score.gif)
+ ![GIF](readme_resources/ipl_sc.gif)
