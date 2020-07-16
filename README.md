@@ -8,4 +8,11 @@
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl_scllll.gif)
+
+
+
+![ipl_scllll](https://user-images.githubusercontent.com/36732223/87684427-de358b80-c79f-11ea-93b2-a6025b0e3429.gif)
+
+
+
+ 
